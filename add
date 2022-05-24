@@ -1,0 +1,62 @@
+[33mcommit 085515dcc2c12d9f4d3280a2efbb39eadd180ab4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jkkim <kjk0329@gmail.com>
+Date:   Tue May 24 12:26:37 2022 +0900
+
+    add / commit
+
+ test.txt | 5 [32m++++[m[31m-[m
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+[33mcommit 32936fa089d40809020f5c9944f9a2e9035b9a39[m
+Author: jkkim <kjk0329@gmail.com>
+Date:   Tue May 24 12:18:17 2022 +0900
+
+    22/05/24
+
+ test.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit a95f4aba008295d0df000a944f7a066910010f14[m
+Author: jkkim <kjk0329@gmail.com>
+Date:   Sat May 21 22:34:20 2022 +0900
+
+    Add a
+
+ test.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit d128d21f50aad4ab60fde90d1a0ec72efe858b66[m
+Author: jkkim <kjk0329@gmail.com>
+Date:   Sat May 21 22:27:34 2022 +0900
+
+    깃 테스트
+
+ test.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit d5e88fdf7ab8bb2412cb5a6a3d2b9ff5d5f1dd36[m
+Author: jongkwangkim <77259574+jongkwangkim@users.noreply.github.com>
+Date:   Tue May 17 13:02:06 2022 +0900
+
+    Create f2.txt
+
+ f2.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit a58b6b9a1ca52ea8206ca9a352b5e70d0164f086[m
+Author: jkkim <kjk0329@gmail.com>
+Date:   Tue May 17 12:57:54 2022 +0900
+
+    add b
+
+ f1.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3e6e69d61b14b8ff1f18bb868e9951811a885a5b[m
+Author: jkkim <kjk0329@gmail.com>
+Date:   Tue May 17 09:18:45 2022 +0900
+
+    add a
+
+ f1.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
